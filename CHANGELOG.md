@@ -1,0 +1,3 @@
+# Changelog
+
+- Enhanced test coverage
